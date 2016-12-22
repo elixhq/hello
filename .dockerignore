@@ -1,3 +1,9 @@
+.git
+*~
+circle.yml
+LICENSE
+readme.md
+history.md
 env/*
 *pyc
 __pycache__
